@@ -252,6 +252,6 @@ streamlit run app.py
 
 | Item | Link |
 |------|------|
-| GitHub Repository | https://github.com/KANISHKAR614/AI_ProblemSolving1_RA2411026050169 |
+| GitHub Repository | https://github.com/Prabakaran-S697/AI_ProblemSolving1_RA2411026050151 |
 | Problem  Live Demo (Map Coloring) | https://chromora.streamlit.app/ |
 | Problem  Live Demo (Rule Based Insurance) | https://claimora.streamlit.app/ |
